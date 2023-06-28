@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "imagefluency"]
 	path = imagefluency
 	url = https://github.com/stm/imagefluency
-	shallow = true
-	registered = true
